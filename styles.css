@@ -1,0 +1,1235 @@
+header{
+
+position: absolute;
+width: 1440px;
+height: 927px;
+left: 0px;
+top: 0px;
+
+background: url(./images/unsplash_ELf8M_YWRTY.png);
+mix-blend-mode: normal;
+opacity: 0.9;
+
+}
+.frame1 {
+  /* Frame 1 */
+
+  box-sizing: border-box;
+
+  /* Auto layout */
+ 
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 40px;
+  gap: 8px;
+
+  position: absolute;
+  width: 107px;
+  height: 40px;
+  left: 1107px;
+  top: 50px;
+
+  background: #ec682c;
+  border: 1px solid #ec682c;
+  border-radius: 8px;
+
+  /* Nav Item */
+
+  width: 60px;
+  height: 34px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22.6121px;
+  line-height: 34px;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.frame2 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 20px;
+  gap: 8px;
+
+  position: absolute;
+  width: 125px;
+  height: 40px;
+  left: 1261px;
+  top: 50px;
+
+  background: #ec682c;
+  border: 1px solid #ec682c;
+  border-radius: 8px;
+
+  /* Nav Item */
+
+  width: 85px;
+  height: 34px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22.6121px;
+  line-height: 34px;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.frame3 {
+  /* Frame 3 */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+  gap: 8px;
+
+  position: absolute;
+  width: 164px;
+  height: 50px;
+  left: 374px;
+  top: 45px;
+
+  /* Nav Item */
+
+  width: 148px;
+  height: 34px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22.6121px;
+  line-height: 34px;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  /* 1st */
+  color: #212832;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.frame4 {
+  /* Frame 4 */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+  gap: 8px;
+
+  position: absolute;
+  width: 90px;
+  height: 50px;
+  left: 587px;
+  top: 45px;
+
+  /* Nav Item */
+
+  width: 74px;
+  height: 34px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22.6121px;
+  line-height: 34px;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  /* 1st */
+  color: #212832;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.frame5 {
+  /* Frame 5 */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+  gap: 8px;
+
+  position: absolute;
+  width: 95px;
+  height: 50px;
+  left: 746px;
+  top: 45px;
+
+  /* Nav Item */
+
+  width: 79px;
+  height: 34px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22.6121px;
+  line-height: 34px;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  /* 1st */
+  color: #212832;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.frame6 {
+  /* Frame 6 */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+  gap: 8px;
+
+  position: absolute;
+  width: 124px;
+  height: 50px;
+  left: 907px;
+  top: 45px;
+
+  /* Nav Item */
+
+  width: 108px;
+  height: 34px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22.6121px;
+  line-height: 34px;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+
+  /* 1st */
+  color: #212832;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+
+.bon-voyage {
+  position: absolute;
+  width: 314px;
+  height: 45px;
+  left: 55px;
+  top: 48px;
+  font-family: cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 52px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.heading {
+  position: absolute;
+  width: 1108px;
+  height: 89px;
+  left: 41px;
+  top: 387px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 110px;
+  letter-spacing: -0.04em;
+  color: #4b40c5;
+}
+
+.Tagline {
+  position: absolute;
+  width: 757px;
+  height: 47px;
+  left: 50px;
+  top: 476px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 48px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.unsplash-image {
+  position: absolute;
+  width: 1440px;
+  height: 827px;
+  left: 0px;
+  top: 0px;
+  background-image: url(unsplash_ELf8M_YWRTY.png);
+  mix-blend-mode: normal;
+  opacity: 0.9;
+}
+
+.cta-container {
+  position: absolute;
+  width: 228.01px;
+  height: 75.88px;
+  left: 50px;
+  top: 549px;
+}
+
+.cta-rectangle {
+  position: absolute;
+  width: 199.01px;
+  height: 61.88px;
+  left: 0;
+  top: 0;
+  background: #4b40c5;
+  box-shadow: 0px 26.6024px 46.5543px rgba(241, 165, 1, 0.15);
+  border-radius: 13.3012px;
+}
+
+.cta-text {
+  position: absolute;
+  width: 195px;
+  height: 29px;
+  left: 16px;
+  top: 12px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 23.9422px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #fff1da;
+}
+
+.CATEGORY{
+
+/* CATEGORY */
+
+position: absolute;
+width: 270px;
+height: 34px;
+left: 650px;
+top: 1004px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+text-align: center;
+
+color: #4B40C5;
+
+
+}
+
+.services-heading{
+/* We Offer Best Services */
+
+position: absolute;
+width: 898px;
+height: 81px;
+left: 308px;
+top: 1078px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 96px;
+text-align: center;
+text-transform: capitalize;
+color: #14183E;
+
+}
+
+.Rectangle-157{
+
+position: absolute;
+width: 117.28px;
+height: 125.33px;
+left: 357.41px;
+top: 1550.72px;
+
+background: #DF6951;
+border-radius: 39.9036px 0px 13.3012px;
+}
+
+.Rectangle-158 {
+
+position: absolute;
+width: 117.28px;
+height: 125.33px;
+left: 1030.28px;
+top: 1198px;
+
+background: #4B40C5;
+border-radius: 39.9036px 0px 13.3012px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+
+.rectangle-6{
+  /* Rectangle 6 */
+
+position: absolute;
+width: 290.15px;
+height: 393.54px;
+left: 398.46px;
+top: 1241.15px;
+
+/* white */
+background: #FFFFFF;
+box-shadow: 0px 133.012px 106.41px rgba(0, 0, 0, 0.02), 0px 86.2116px 62.3187px rgba(0, 0, 0, 0.0151852), 0px 51.2343px 33.8935px rgba(0, 0, 0, 0.0121481), 0px 26.6024px 17.2916px rgba(0, 0, 0, 0.01), 0px 10.838px 8.67042px rgba(0, 0, 0, 0.00785185), 0px 2.46319px 4.18742px rgba(0, 0, 0, 0.00481481);
+border-radius: 47.8844px;
+
+}
+
+.Rectangle-159{
+
+/* Rectangle 159 */
+
+position: absolute;
+width: 313.15px;
+height: 393.54px;
+left: 793.05px;
+top: 1232px;
+
+/* white */
+background: #FFFFFF;
+box-shadow: 0px 133.012px 106.41px rgba(0, 0, 0, 0.02), 0px 86.2116px 62.3187px rgba(0, 0, 0, 0.0151852), 0px 51.2343px 33.8935px rgba(0, 0, 0, 0.0121481), 0px 26.6024px 17.2916px rgba(0, 0, 0, 0.01), 0px 10.838px 8.67042px rgba(0, 0, 0, 0.00785185), 0px 2.46319px 4.18742px rgba(0, 0, 0, 0.00481481);
+border-radius: 47.8844px;
+
+}
+
+.Getting{
+
+position: absolute;
+width: 200px;
+height: 136px;
+left: 438px;
+top: 1472px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 35px;
+/* or 173% */
+text-align: center;
+
+color: #000000;
+
+}
+
+.Best-Flights{
+
+position: absolute;
+width: 177px;
+height: 34px;
+left: 450px;
+top: 1422px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+}
+
+.rectangle158 {
+
+position: absolute;
+width: 58.64px;
+height: 61.41px;
+left: 512px;
+top: 1300.7px;
+
+background: #FBEBBC;
+border-radius: 23.9422px 6.65061px 13.3012px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+}
+
+.plane{
+  /* plane */
+
+position: absolute;
+width: 100%;
+height: 322.15px;
+left: 340.58px;
+top: 1130.49px;
+}
+
+.rectangle156 {
+
+/* Rectangle 156 */
+
+position: absolute;
+width: 58.64px;
+height: 61.41px;
+left: 200.06px;
+top: 1320.54px;
+
+background: #FBEBBC;
+border-radius: 23.9422px 6.65061px 13.3012px;
+
+
+}
+
+.Group48 img{
+  /* satellite-dish */
+
+position: absolute;
+width: 78.27px;
+height: 87.73px;
+left: 152.16px;
+top: 1290.78px;
+
+}
+
+.as{
+
+position: absolute;
+width: 190px;
+height: 145px;
+left: 84px;
+top: 1472px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 35px;
+
+text-align: center;
+
+color: #000000;
+
+}
+
+.wh{
+  /* Calculated Weather */
+
+position: absolute;
+width: 253px;
+height: 34px;
+left: 80px;
+top: 1422px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.rectangle157{
+  /* Rectangle 159 */
+
+position: absolute;
+width: 58px;
+height: 60px;
+left: 930px;
+top: 1290px;
+
+background: rgba(240, 187, 31, 0.3);
+border-radius: 23.9422px 6.65061px 13.3012px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+}
+
+.Group50 img{
+  /* image 25 */
+
+position: absolute;
+width: 46.91px;
+height: 86.48px;
+left: 921.41px;
+top: 1298.52px;
+
+background: url(image.png);
+border-radius: 0px 0px 39.9036px 46.5543px;
+
+}
+
+.get{
+  /* Getting good iternary based on the events */
+
+position: absolute;
+width: 212.29px;
+height: 97.76px;
+left: 837px;
+top: 1471px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 35px;
+/* or 173% */
+text-align: center;
+
+color: #000000;
+
+}
+
+.local{
+  /* Local Events */
+
+position: absolute;
+width: 201px;
+height: 33px;
+left: 845px;
+top: 1422px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.rectangle160{
+
+position: absolute;
+width: 58px;
+height: 60px;
+left: 1280px;
+top: 1320px;
+
+background: #FBEBBC;
+border-radius: 23.9422px 6.65061px 13.3012px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+}
+
+.Group49 img{
+
+  position: absolute;
+  width: 58.64px;
+  height: 62.67px;
+  left: 1300px;
+  top: 1299px;
+}
+
+.de{
+  /* We deliver outsourced services for customers */
+
+position: absolute;
+width: 160px;
+height: 166px;
+left: 1230px;
+top: 1471px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 35px;
+/* or 173% */
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.cus{
+  /* Customization */
+
+position: absolute;
+width: 189px;
+height: 34px;
+left: 1210px;
+top: 1421px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.subheading{
+  /* Subheading */
+
+position: absolute;
+width: 179px;
+height: 48px;
+left: 599px;
+top: 1789px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+text-align: center;
+
+color: #4B40C5;
+
+
+}
+
+.heading1{
+/* Heading */
+
+position: absolute;
+width: 536px;
+height: 93px;
+left: 440px;
+top: 1877px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 62px;
+line-height: 93px;
+/* identical to box height */
+text-align: center;
+text-transform: capitalize;
+
+/* 3rd */
+color: #14183E;
+
+
+}
+
+.rectangle14 img{
+  /* Rectangle 14 */
+
+position: absolute;
+width: 417.66px;
+height: 607.87px;
+left: 21.33px;
+top: 2010px;
+
+background: url(destination-1.png);
+filter: drop-shadow(0px 133.012px 106.41px rgba(0, 0, 0, 0.02)) drop-shadow(0px 86.2116px 62.3187px rgba(0, 0, 0, 0.0151852)) drop-shadow(0px 51.2343px 33.8935px rgba(0, 0, 0, 0.0121481)) drop-shadow(0px 26.6024px 17.2916px rgba(0, 0, 0, 0.01)) drop-shadow(0px 10.838px 8.67042px rgba(0, 0, 0, 0.00785185)) drop-shadow(0px 2.46319px 4.18742px rgba(0, 0, 0, 0.00481481));
+border-radius: 31.9229px;
+
+}
+
+.rectangle15 img{
+/* Rectangle 15 */
+
+position: absolute;
+width:320.66px;
+height: 130.92px;
+left: 37px;
+top: 2340.95px;
+
+/* white */
+background: #FFFFFF;
+border-radius: 0px 0px 31.9229px 31.9229px;
+
+}
+
+.tex1{
+  /* Rome, Italty */
+
+position: absolute;
+width: 143px;
+height: 30px;
+left: 46.6px;
+top: 2350.87px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 124.5%;
+/* identical to box height, or 30px */
+
+/* TEXT CLR */
+color: #5E6282;
+}
+
+.nav1 img{
+
+position: absolute;
+width: 26.6px;
+height: 26.6px;
+left: 58.6px;
+top: 2420.4px;
+
+}
+
+.tex2{
+  /* 10 Days Trip */
+
+position: absolute;
+width: 119px;
+height: 25px;
+left: 90.83px;
+top: 2420.4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 124.5%;
+/* identical to box height, or 25px */
+
+/* TEXT CLR */
+color: #5E6282;
+
+
+}
+
+.tex3{
+  /* ₹5,42Lakh */
+
+position: absolute;
+width: 121px;
+height: 30px;
+left: 240px;
+top: 2350.87px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 124.5%;
+/* identical to box height, or 30px */
+
+/* TEXT CLR */
+color: #5E6282;
+}
+ 
+
+.heading2{
+  /* Heading */
+
+position: absolute;
+width: 686px;
+height: 155px;
+left: 41.6px;
+top: 2841px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 96px;
+text-transform: capitalize;
+
+/* 3rd */
+color: #14183E;
+}
+
+.Group189{
+  /* Group 589 */
+
+position: absolute;
+width: 424.23px;
+height: 439.81px;
+left: 915.6px;
+top: 2797px;
+
+opacity: 0.4;
+
+
+/* Ellipse 8 */
+
+position: absolute;
+width: 424.23px;
+height: 439.81px;
+left: 915.6px;
+top: 2797px;
+
+background: #4B40C5;
+opacity: 0.8;
+filter: blur(99.7591px);
+
+}
+
+.rectangle6{
+  /* Rectangle 16 */
+
+position: absolute;
+width: 443.4px;
+height: 479.35px;
+left: 795.38px;
+top: 2884.47px;
+
+
+}
+
+.rectangle18{
+  /* Group 4 */
+
+position: absolute;
+width: 315.18px;
+height: 154.59px;
+left: 1061.42px;
+top: 3146.92px;
+
+
+}
+
+.heart{
+
+position: absolute;
+width: 23.97px;
+height: 22.27px;
+left: 1290.86px;
+top: 3303.56px;
+
+}
+
+.value{
+  /* Values */
+
+position: absolute;
+width: 532px;
+height: 362px;
+left: 38.6px;
+top: 3034px;
+
+
+}
+
+.subheading1{
+  /* Subheading */
+position: absolute;
+width: 204px;
+height: 32px;
+left: 45.6px;
+top: 2791px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 23.9422px;
+line-height: 36px;
+text-align: center;
+
+/* TEXT CLR */
+color: #585e8b;
+
+
+}
+
+.group5408{
+  /* Group 5408 */
+
+position: absolute;
+width: 858.49px;
+height: 199.28px;
+left: 287.6px;
+top: 3521px;
+}
+
+.rectangle141{
+  /* Rectangle 14 */
+
+position: absolute;
+width: 430px;
+height: 405px;
+left: 7.6px;
+top: 3820px;
+}
+
+.rectangle142 { 
+/* Rectangle 15 */
+
+position: absolute;
+width: 430px;
+height: 405px;
+left: 494.6px;
+top: 3820px;
+
+
+}
+
+.rectangle143 { 
+  /* Rectangle 15 */
+  
+  position: absolute;
+  width: 430px;
+  height: 405px;
+  left: 981.6px;
+  top: 3820px;
+  
+  
+  }
+
+  .t1{
+    /* Handpicked Hotels */
+
+position: absolute;
+width: 327px;
+height: 43px;
+left: 59.6px;
+top: 3958px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 45px;
+text-align: center;
+
+color: #000000;
+
+
+  }
+
+  .t11{
+    /* Lorem ipsum dolor sit amet, consect adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa */
+
+position: absolute;
+width: 325px;
+height: 136px;
+left: 60.6px;
+top: 4065px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 180%;
+/* or 36px */
+text-align: center;
+
+color: #000000;
+  }
+
+  .E1{
+    /* Ellipse 5 */
+
+position: absolute;
+width: 96px;
+height: 94px;
+left: 120.6px;
+top: 3790px;
+  }
+
+  .V1{
+
+position: absolute;
+width: 96px;
+height: 94px;
+left: 186.6px;
+top: 3850px;
+
+  }
+
+
+.t2{
+    /* Handpicked Hotels */
+
+position: absolute;
+width: 327px;
+height: 43px;
+left: 545.6px;
+top: 3958px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 45px;
+text-align: center;
+
+color: #000000;
+
+
+  }
+
+  .t12{
+    /* Lorem ipsum dolor sit amet, consect adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa */
+
+position: absolute;
+width: 325px;
+height: 136px;
+left: 545.6px;
+top: 4065px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 180%;
+/* or 36px */
+text-align: center;
+
+color: #000000;
+  }
+
+  .E2{
+
+position: absolute;
+width: 96px;
+height: 94px;
+left: 620.6px;
+top: 3799px;
+  }
+
+  .V2{
+
+position: absolute;
+width: 96px;
+height: 94px;
+left: 688.6px;
+top: 3850px;
+
+}
+
+.E3{
+
+position: absolute;
+width: 96px;
+height: 94px;
+left: 1110.6px;
+top: 3790px;
+}
+
+.V3{
+
+  position: absolute;
+  width: 96px;
+  height: 94px;
+  left: 1180.6px;
+  top: 3847px;
+  
+  }
+
+  .t3{
+    /* Handpicked Hotels */
+
+position: absolute;
+width: 327px;
+height: 43px;
+left: 1035.6px;
+top: 3958px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 45px;
+text-align: center;
+
+color: #000000;
+
+
+  }
+
+  .t13{
+    /* Lorem ipsum dolor sit amet, consect adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa */
+
+position: absolute;
+width: 325px;
+height: 136px;
+left: 1035.6px;
+top: 4065px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 180%;
+/* or 36px */
+text-align: center;
+
+color: #000000;
+  }
+
+ .group5409{
+  /* Group 5409 */
+
+position: absolute;
+width: 1373.58px;
+height: 484.79px;
+left: 22.6px;
+top: 4432px;
+
+ } 
+
+ footer{
+  /* footer */
+
+position: absolute;
+width: 1400.24px;
+height: 338.24px;
+left: calc(50% - 1400.24px/2 - 14.88px);
+top: 5112.07px;
+
+
+ }
